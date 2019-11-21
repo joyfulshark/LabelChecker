@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651080968273",
+    "firebase_url": "https://labelchecker-29bc6.firebaseio.com",
+    "project_id": "labelchecker-29bc6",
+    "storage_bucket": "labelchecker-29bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651080968273:android:bca5ea84f906be4b317070",
+        "android_client_info": {
+          "package_name": "com.joyfulshark.labelchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651080968273-97cuq1iv5ddvvph3vru8blv40pubf3d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyfulshark.labelchecker",
+            "certificate_hash": "42617c540abdd32e14d057937539eadabb86fc42"
+          }
+        },
+        {
+          "client_id": "651080968273-7o5444ddv600b6asbhqhj6nsvk5aspad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1vgQ5Mt-e6ZMHgvOqSCFzGAVDOLG1so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651080968273-7o5444ddv600b6asbhqhj6nsvk5aspad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
